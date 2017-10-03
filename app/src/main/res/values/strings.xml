@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PopularMovieApp</string>
+
+    <!-- Activity Titles-->
+    <string name="title_Detail">Movie Detail</string>
+
+    <!-- Base URLs-->
+    <string name="base_get_movie_url">http://api.themoviedb.org/3</string>
+    <string name="base_fetch_movie_url">http://image.tmdb.org/t/p</string>
+
+    <!-- URL Paths-->
+    <string name="popular_movie">movie/popular</string>
+    <string name="top_rated_movie">movie/top_rated</string>
+
+    <!-- Image Sizes-->
+    <string name="size_w92">w92</string>
+    <string name="size_w154">w154</string>
+    <string name="size_w185">w185</string>
+    <string name="size_w342">w342</string>
+    <string name="size_w500">w500</string>
+    <string name="size_w780">w780</string>
+
+    <!-- Message-->
+    <string name="text_no_network">No Network Available</string>
+
+    <string name="text_no_date">No data</string>
+    <string name="text_10">10</string>
+    <!-- Keys-->
+    <string name="key_results">results</string>
+
+    <!-- Menu Titles-->
+    <string name="menu_popular">Popular</string>
+    <string name="menu_top_rated">Top rated</string>
+
+    <!-- The movie DB api Key-->
+    <string name="text_api_key">api_key</string>
+    <string name="api_key_the_movie_db"></string>
+</resources>
